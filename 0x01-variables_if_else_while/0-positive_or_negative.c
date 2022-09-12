@@ -8,7 +8,11 @@
  */
 int main(void)
 {
+<<<<<<< HEAD
 	int n;	
+=======
+	int n;
+>>>>>>> 33a9af80ee51574f60bdf29e07ad3026e2e87906
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
