@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 /**
  * main - print if the number is positive, zero, or negative
  *
@@ -8,13 +10,13 @@
  */
 int main(void)
 {
-	char ch;
+	int i;
 
-	for (ch != 'a' ; ch <= 'z' ; ch++)
+	for ( i= 97; i <= 123; i++)
 	{
-		if (ch != 'e' && ch != 'q')
+		if (i != 101 && i != 113)
 		{
-			putchar(ch);
+			putchar(i);
 		}
 	}
 	putchar('\n');
