@@ -1,5 +1,10 @@
 #include <stdio.h>
-/***/
+/**
+ * main - printing num frm 0-9 with commas and space btw them
+ * Description: Using the main function
+ * This prints "0, 1, 2, 3, 4, 5, 6, 7, 8, 9,"
+ * Return: 0
+ */
 int main(void)
 {
 	int c;
