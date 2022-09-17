@@ -1,3 +1,1 @@
-3. islower
-git add .
-
+4. isalpha
