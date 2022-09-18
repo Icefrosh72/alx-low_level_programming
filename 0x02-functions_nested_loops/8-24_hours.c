@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* jack_baueer - prints the minuates of a day
+* jack_bauer - prints the minuates of a day
 *
 * Return: no return
 */
